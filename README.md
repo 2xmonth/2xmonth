@@ -1,16 +1,21 @@
-### Hi there 👋
+i like to bot websites and mess around with ml
 
-<!--
-**2xmonth/2xmonth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+email me or contact me on telegram if you want me to make you a tool or acc gen
 
-Here are some ideas to get you started:
+currently working on (doubt ill update this)
+* phantom forces reinforcment learning agent
+* phantom forces autofarm
+* maybe ill make a requests based funcaptcha solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+past projects that im proud about
+* reddit
+* datadome
+* hcaptcha
+* recaptcha
+* roblox
+* discord
+* yahoo
+
+i am keeping all my requests based solvers private. no i will not sell them to you, figure it out yourself
+
+if you are going to sell the crappy selenium solvers go right ahead. not releasing updated models for those so they will go out of date fast
