@@ -18,4 +18,6 @@ past projects that im proud about
 
 i am keeping all my requests based solvers private. no i will not sell them to you, figure it out yourself
 
-if you are going to sell the crappy selenium solvers go right ahead. not releasing updated models for those so they will go out of date fast
+~~if you are going to sell the crappy selenium solvers go right ahead. not releasing updated models for those so they will go out of date fast~~
+
+goodbye public repos!
