@@ -3,7 +3,7 @@ i like to bot websites and mess around with ml
 email me or contact me on telegram if you want me to make you a tool or acc gen
 
 currently working on (doubt ill update this)
-* phantom forces reinforcment learning agent
+* phantom forces reinforcement learning agent
 * phantom forces autofarm
 * requests based funcaptcha solver
 
